@@ -1,32 +1,34 @@
-[
-  {
-    "id": 1,
-    "question": "на производсте чего специализируется компания Rolex?",
-    "answers": [
-      { "text": "смартфонов", "correct": false },
-      { "text": "часов", "correct": true },
-      { "text": "питания", "correct": false },
-      { "text": "косметики", "correct": false }
-    ]
-  },
-  {
-    "id": 2,
-    "question": "Когда впервые запустили социальную сеть `Facebook`?",
-    "answers": [
-      { "text": "2004", "correct": true },
-      { "text": "2005", "correct": false },
-      { "text": "2006", "correct": false },
-      { "text": "2007", "correct": false }
-    ]
-  },
-  {
-    "id": 3,
-    "question": "Как зовут актера, который играл роль Гарри Поттера?",
-    "answers": [
-      { "text": "Джони Деп", "correct": false },
-      { "text": "Leonardo Di Caprio", "correct": false },
-      { "text": "Denzel Washington", "correct": false },
-      { "text": "Daniel Red Cliff", "correct": true }
-    ]
-  }
-]
+{
+  "data": [
+    {
+      "id": 1,
+      "question": "на производсте чего специализируется компания Rolex?",
+      "answers": [
+        { "text": "смартфонов", "correct": false },
+        { "text": "часов", "correct": true },
+        { "text": "питания", "correct": false },
+        { "text": "косметики", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Когда впервые запустили социальную сеть `Facebook`?",
+      "answers": [
+        { "text": "2004", "correct": true },
+        { "text": "2005", "correct": false },
+        { "text": "2006", "correct": false },
+        { "text": "2007", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Как зовут актера, который играл роль Гарри Поттера?",
+      "answers": [
+        { "text": "Джони Деп", "correct": false },
+        { "text": "Leonardo Di Caprio", "correct": false },
+        { "text": "Denzel Washington", "correct": false },
+        { "text": "Daniel Red Cliff", "correct": true }
+      ]
+    }
+  ]
+}
